@@ -35,5 +35,5 @@ export const playlists: Playlist[] = [
         filename: "早安《麒麟》",
       },
     ],
-  }
+  },
 ];
