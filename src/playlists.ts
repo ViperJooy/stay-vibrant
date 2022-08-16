@@ -22,7 +22,7 @@ export const playlists: Playlist[] = [
     videos: [
       {
         id: "t2T34_n_DOE",
-        filename: "Psy P楊俊逸《劉玉玲+街頭藝術家》",
+        filename: "",
       },
     ],
   },
@@ -32,7 +32,7 @@ export const playlists: Playlist[] = [
     videos: [
       {
         id: "xmDXZCqkKSY",
-        filename: "早安《麒麟》",
+        filename: "",
       },
     ],
   },
