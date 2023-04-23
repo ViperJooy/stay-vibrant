@@ -17,23 +17,33 @@ export interface Playlist {
 
 export const playlists: Playlist[] = [
   {
-    title: "《中國說唱巔峰對決》EP01純享：Psy P楊俊逸《劉玉玲+街頭藝術家》 熱門單曲串燒重磅来襲｜愛奇藝",
-    dj: "Psy P",
+    title: "synthwave radio 🌌 - beats to chill/game to",
+    dj: "Lofi Girl",
     videos: [
       {
-        id: "t2T34_n_DOE",
+        id: "MVPTGNGiI-4",
         filename: "",
       },
     ],
   },
   {
-    title: "纯享丨早安《麒麟》 秀到天花板的flow | 中国说唱巅峰对决 EP7 | THE RAP OF CHINA | iQIYI精选",
-    dj: "早安",
+    title: "lofi hip hop radio 💤 - beats to sleep/chill to",
+    dj: "Lofi Girl",
     videos: [
       {
-        id: "xmDXZCqkKSY",
+        id: "rUxyKA_-grg",
         filename: "",
       },
     ],
   },
+  {
+    title: "lofi hip hop radio 📚 - beats to relax/study to",
+    dj: "Lofi Girl",
+    videos: [
+      {
+        id: "jfKfPfyJRdk",
+        filename: "",
+      },
+    ],
+  }
 ];
